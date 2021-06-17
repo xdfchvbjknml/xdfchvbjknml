@@ -2,7 +2,7 @@
 - 👀 I’m interested in nothing
 - 🌱 I’m currently learning rust
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me kuabjk#2684 on discord
+- 📫 How to reach me sandvich#2684 on discord
 
 <!---
 xdfchvbjknml/xdfchvbjknml is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
