@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xdfchvbjknml
 - 👀 I’m interested in nothing
-- 🌱 I’m currently learning rust
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me sandvich#2684 on discord
 
