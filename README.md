@@ -2,7 +2,7 @@
 - 👀 I’m interested in nothing
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me sandvich#2684 on discord
+- 📫 How to reach me @vfvsccvf:matrix.org
 
 <!---
 xdfchvbjknml/xdfchvbjknml is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
