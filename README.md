@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me @vfvsccvf:matrix.org wait like 1 month
-https://files.catbox.moe/0947f9.mkv
 <!---
 xdfchvbjknml/xdfchvbjknml is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
